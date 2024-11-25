@@ -1,0 +1,10 @@
+main {
+  min-height: calc(100vh - 364px);
+  padding-top: 68px;
+  background-color: #fafafa;
+}
+
+main form {
+  width: 500px;
+  margin: 0 auto;
+}
